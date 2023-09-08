@@ -1,6 +1,3 @@
-# Portfolio - Karthick Subramanian
-A short portfolio having details of computer vision projects.
-
 # Project 1: [Turtlebot based Face Mask Detection](https://ksubra01.github.io/ksubra.github.io/)  
 •	Trained from scratch, a custom convolutional Neural Network architecture having 8 layers, getting 89% testing accuracy.  
 •	Collected over 3000 images for training and testing the model. Implemented a secondary CNN for face tracking using MTCNN.  
