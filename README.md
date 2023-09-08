@@ -19,7 +19,7 @@ Nerual Network Architecture:
 • Deployed PID control to acheive a rise time of 0.34s and overshoot of 6.23%.  
 
 # Project 3: [Vehicle Make and Model Recognition](https://github.com/ksubra01/Make_and_model_Recog)
-• Successfully trained and tested a motorvehicle make and model recognition using over 850 images.
-• Acheived a recognition rate of 87.6% for a vocabulary size of 200 and regularization constant of 4. 
-• An rbf kernel gave the best accuracy for this setting.
-• Significantly increased training time by by 66% reducing the vocabulary size while still preserving accuracy.
+• Successfully trained and tested a motorvehicle make and model recognition using over 850 images.  
+• Acheived a recognition rate of 87.6% for a vocabulary size of 200 and regularization constant of 4.   
+• An rbf kernel gave the best accuracy for this setting.  
+• Significantly increased training time by by 66% reducing the vocabulary size while still preserving accuracy.  
