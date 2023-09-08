@@ -7,7 +7,7 @@ A short portfolio having details of my projects.
 • Managed 3 custom ROS nodes and 1 custom topic for efficient commnuication.  
 • Increased the overall efficiency by reducing deplyoment time by 25%.  
 
-Testing accuracy:  
+Training accuracy:  
 ![](https://github.com/ksubra01/ksubra.github.io/blob/main/img/Final_accuracy.png)
   
 Nerual Network Architecture:  
