@@ -5,10 +5,10 @@
 • Increased the overall efficiency by reducing deplyoment time by 25%.  
 
 Training accuracy:  
-![](https://github.com/ksubra01/ksubra.github.io/blob/main/img/Final_accuracy.png)
+![](/Final_accuracy.png)
   
 Nerual Network Architecture:  
-![](https://github.com/ksubra01/ksubra.github.io/blob/main/img/NN.png)
+![](/NN.png)
   
 # Project 2: [Drone based image processing system for Line following](https://github.com/ksubra01/Line-follower)  
 • Drafted, using MATLAB and Simulink, an image processing system with an accuracy of 82.5% for detecting red lines.  
